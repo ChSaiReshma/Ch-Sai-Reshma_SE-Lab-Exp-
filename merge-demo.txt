@@ -1,6 +1,7 @@
 Git Branching and Merge Conflict Experiment
 
-This file is created in the main branch.
+This file demonstrates successful merging of two Git branches.
 
 Developer: Reshma
-Status: Main Version
+Branches Merged: main and feature-update
+Status: Merge Conflict Resolved
