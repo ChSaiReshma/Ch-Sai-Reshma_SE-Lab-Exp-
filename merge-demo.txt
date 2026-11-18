@@ -1,0 +1,6 @@
+Git Branching and Merge Conflict Experiment
+
+This file is created in the main branch.
+
+Developer: Reshma
+Status: Main Version
